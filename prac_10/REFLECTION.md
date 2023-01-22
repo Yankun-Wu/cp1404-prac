@@ -1,0 +1,3 @@
+1. When I do estimate, I always underestimate how long it will take to complete, and I still sometimes need to look up or watch a video to complete the practical.
+2. When the code is reviewed, I think it is helpful to provide feedback. I can analyze the code from the point of view of error correction, which can deepen my understanding of the code.
+3. As for the practice, I don't think it needs to be changed, because the practice can be carried out gradually by the students, which won't make the students encounter difficulties directly, and students can complete the extended task if they want to be better.
